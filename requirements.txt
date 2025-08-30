@@ -1,0 +1,6 @@
+tmdbsimple
+numpy
+pandas
+python-dotenv
+matplotlib
+seaborn
